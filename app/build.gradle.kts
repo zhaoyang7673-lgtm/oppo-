@@ -8,7 +8,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.oppo.checkin"
+        applicationId = "io.github.oppocheckin.helper"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
