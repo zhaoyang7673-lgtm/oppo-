@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPPO 每日签到助手</string>
+    <string name="accessibility_service_label">OPPO 每日签到助手</string>
+    <string name="accessibility_service_description">仅用于在您设定的 OPPO 商城应用中执行每日会员积分签到（进入“会员”→“我的积分”→点击一次“签到”并验证结果）。不会读取密码、私信、截图或任何其他应用的内容，也不会上传任何数据。</string>
+</resources>
